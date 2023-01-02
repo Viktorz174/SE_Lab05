@@ -18,5 +18,7 @@ int main()
 
     cout << A_var - B_var << endl;
 
+    cout << A_var / B_var << endl;
+
     return 0;
 }
