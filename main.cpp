@@ -1,4 +1,5 @@
 /* This is a... */
+/* Author Zavyalov Viktor KEz-598 2023 */
 #include <iostream>
 
 using namespace std;
