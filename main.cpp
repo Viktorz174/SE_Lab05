@@ -14,11 +14,9 @@ int main()
     cout << "Enter B" << endl;
     cin >> B_var;
 
-    cout << A_var + B_var << endl;
-
     cout << A_var - B_var << endl;
-
     cout << A_var * B_var << endl;
+    cout << A_var / B_var << endl;
 
     return 0;
 }
